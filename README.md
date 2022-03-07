@@ -1,5 +1,5 @@
 # OO-Neural-Networks
-Objected-oriented neural networks implementations. 
+Objected-oriented neural networks implementations. Understanding Pytorch's backend codebase in C/C++.
 
 ## Pytorch
 
