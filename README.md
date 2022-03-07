@@ -3,6 +3,8 @@ Objected-oriented neural networks implementations. Understanding Pytorch's backe
 
 ## Pytorch
 
+**Architecture**
+
 ```bash
 ├── autograd
 ├── backends
